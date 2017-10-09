@@ -1,4 +1,4 @@
-%检验R波检测程序的性能
+%检验R波检测程序的性能  testGIT
 clc;clear;close all;
 tic;
 dir='E:\素雅\研究生\心律失常判别及临床实验\MATLAB代码\特征提取\';
